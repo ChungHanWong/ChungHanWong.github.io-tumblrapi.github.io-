@@ -1,0 +1,65 @@
+#list-data li {
+	display: inline-block;
+	width: 550px;
+	margin-right: 8px;
+	margin-bottom: 8px;
+	border:3px solid grey;
+}
+
+body{
+	text-align: center;
+	font-family: Assistant, Arial, sans-serif;
+	background-image: url(./Sports.png)
+}
+
+
+li img {
+	max-width: 100%;
+
+}
+
+#listOfPics {
+	margin: 30px;
+}
+
+button {
+	width:200px;
+	height:50px;
+	font-size: 20px;
+	color: grey;
+	box-shadow: 2px 3px #888888;
+}
+
+/*button colour */
+#b0 {
+	background-color: rgba(255,245,238,0.1)
+}
+
+#b1 {
+	background-color: #28C1DF;
+}
+
+#b2 {
+	background-color: #9DE442;
+}
+
+#b3 {
+	background-color: #F7C050;
+}
+
+#b4 {
+	background-color: #FFA07A;
+}
+
+
+
+#b1, #b2, #b3,#b4{
+	border : 2px solid white;
+	margin: 10px;
+}
+
+
+h1{
+	font-size: 45px;
+	font-family: "Gloria Hallelujah", Arial, sans-serif;
+}
